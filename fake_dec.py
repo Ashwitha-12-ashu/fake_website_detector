@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 import pandas as pd
-import tldextract as tld
+import tldextract 
 
 # Load trained model
 model = pickle.load(open("url_model.pkl", "rb"))
