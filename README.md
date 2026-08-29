@@ -1,5 +1,3 @@
-Great work getting it running, Ashu! 🚀
-Here is a clean and professional README.md you can paste into your GitHub repository for your Fake Website Detector project.
 
 Fake Website Detector 🔍
 
